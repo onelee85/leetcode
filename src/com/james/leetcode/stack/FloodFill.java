@@ -31,19 +31,19 @@ public class FloodFill {
     static class Solution {
         public int[][] floodFill(int[][] image, int sr, int sc, int newColor) {
             int[][] visited = new int[image.length][image[0].length];
-            bfs(image, visited, sr, sc, image[sr][sc], newColor);
+            dfs(image, visited, sr, sc, image[sr][sc], newColor);
             return image;
         }
 
-        private void bfs(int[][] image, int[][] visited, int x, int y, int val, int newColor){
+        private void dfs(int[][] image, int[][] visited, int x, int y, int val, int newColor){
             if(x < 0 || y < 0 || x >= image.length || y >= image[x].length || visited[x][y] == 1 || image[x][y] != val)
                 return;
             image[x][y] = newColor;
             visited[x][y] = 1;
-            bfs(image, visited, x-1, y, val, newColor);
-            bfs(image, visited, x+1, y, val, newColor);
-            bfs(image, visited, x, y-1, val, newColor);
-            bfs(image, visited, x, y+1, val, newColor);
+            dfs(image, visited, x-1, y, val, newColor);
+            dfs(image, visited, x+1, y, val, newColor);
+            dfs(image, visited, x, y-1, val, newColor);
+            dfs(image, visited, x, y+1, val, newColor);
         }
     }
 
