@@ -31,17 +31,17 @@ This is my exercise for leetcode.
 |23  | [合并两个有序链表](./src/com/james/leetcode/link/MergeTwoLists.java) | Java | Easy |
 |24  | [回文链表](./src/com/james/leetcode/link/Palindrome.java) | Java | Easy |
 |25  | [反转一个单链表](./src/com/james/leetcode/link/ReverseLinkList.java) | Java | Easy |
-|25  | [存在重复元素](./src/com/james/leetcode/array/DuplicateNumOfArrays.java) | Java | Easy |
-|25  | [两个数组的交集 II](./src/com/james/leetcode/array/IntersectOfArrays.java) | Java | Easy |
-|25  | [买卖股票的最佳时机 II](./src/com/james/leetcode/array/MaxProfitII.java) | Java | Easy |
-|25  | [移动零](./src/com/james/leetcode/array/MoveZeroes.java) | Java | Easy |
-|25  | [实现循环队列](./src/com/james/leetcode/array/MyCircularQueue.java) | Java | Easy |
-|25  | [岛屿的个数](./src/com/james/leetcode/array/NumIslands.java) | Java | Easy |
-|25  | [完全平方数](./src/com/james/leetcode/array/NumSquares.java) | Java | Easy |
-|25  | [打开转盘锁](./src/com/james/leetcode/array/OpenLock.java) | Java | Easy |
-|25  | [加一](./src/com/james/leetcode/array/PlusOne.java) | Java | Easy |
-|25  | [删除排序数组中的重复项](./src/com/james/leetcode/array/RemoveDuplicatesOfArray.java) | Java | Easy |
-|25  | [旋转数组](./src/com/james/leetcode/array/RotateArray.java) | Java | Easy |
-|25  | [旋转图像](./src/com/james/leetcode/array/RotateMatrix.java) | Java | Easy |
-|25  | [只出现一次的数字](./src/com/james/leetcode/array/SingleNumber.java) | Java | Easy |
-|25  | [两数之和](./src/com/james/leetcode/array/TwoSum.java) | Java | Easy |
+|26  | [存在重复元素](./src/com/james/leetcode/array/DuplicateNumOfArrays.java) | Java | Easy |
+|27  | [两个数组的交集 II](./src/com/james/leetcode/array/IntersectOfArrays.java) | Java | Easy |
+|28  | [买卖股票的最佳时机 II](./src/com/james/leetcode/array/MaxProfitII.java) | Java | Easy |
+|29  | [移动零](./src/com/james/leetcode/array/MoveZeroes.java) | Java | Easy |
+|30  | [实现循环队列](./src/com/james/leetcode/array/MyCircularQueue.java) | Java | Easy |
+|31  | [岛屿的个数](./src/com/james/leetcode/array/NumIslands.java) | Java | Easy |
+|32  | [完全平方数](./src/com/james/leetcode/array/NumSquares.java) | Java | Easy |
+|33  | [打开转盘锁](./src/com/james/leetcode/array/OpenLock.java) | Java | Easy |
+|34  | [加一](./src/com/james/leetcode/array/PlusOne.java) | Java | Easy |
+|35  | [删除排序数组中的重复项](./src/com/james/leetcode/array/RemoveDuplicatesOfArray.java) | Java | Easy |
+|36  | [旋转数组](./src/com/james/leetcode/array/RotateArray.java) | Java | Easy |
+|37  | [旋转图像](./src/com/james/leetcode/array/RotateMatrix.java) | Java | Easy |
+|38  | [只出现一次的数字](./src/com/james/leetcode/array/SingleNumber.java) | Java | Easy |
+|39  | [两数之和](./src/com/james/leetcode/array/TwoSum.java) | Java | Easy |
