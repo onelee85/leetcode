@@ -45,4 +45,6 @@ This is my exercise for leetcode.
 |37  | [旋转图像](./src/com/james/leetcode/array/RotateMatrix.java) | Java | Easy |
 |38  | [只出现一次的数字](./src/com/james/leetcode/array/SingleNumber.java) | Java | Easy |
 |39  | [两数之和](./src/com/james/leetcode/array/TwoSum.java) | Java | Easy |
-|39  | [钥匙和房间](./src/com/james/leetcode/stack/VisitAllRooms.java) | Java | Medium |
+|40  | [钥匙和房间](./src/com/james/leetcode/stack/VisitAllRooms.java) | Java | Medium |
+|41  | [设计链表](./src/com/james/leetcode/link/MyLinkedList.java) | Java | Easy |
+|42  | [环形链表 II](./src/com/james/leetcode/link/CycleLinkList2.java) | Java | Easy |
