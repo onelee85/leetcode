@@ -21,6 +21,7 @@ public class ListNode {
             System.out.print(curr.val + ",");
             curr = curr.next;
         }
+        System.out.println();
     }
 
 
