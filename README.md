@@ -50,3 +50,4 @@ This is my exercise for leetcode.
 |42  | [环形链表 II](./src/com/james/leetcode/link/CycleLinkList2.java) | Java | Easy |
 |43  | [相交链表](./src/com/james/leetcode/link/IntersectionNode.java) | Java | Easy |
 |44  | [移除链表元素](./src/com/james/leetcode/link/RemoveElements.java) | Java | Easy |
+|45  | [奇偶链表](./src/com/james/leetcode/link/OddEvenList.java) | Java | Medium |
