@@ -25,6 +25,17 @@ public class ListNode {
     }
 
 
+    public static ListNode generateByArr(int[] arrs) {
+        ListNode head = new ListNode(arrs[0]);
+        ListNode curr = head;
+        for (int i = 1; i < arrs.length; i++) {
+            ListNode node = new ListNode(arrs[i]);
+            curr.next = node;
+            curr = node;
+        }
+        return head;
+    }
+
     public void deleteNode(ListNode node) {
         node.val = node.next.val;
         node.next = node.next.next;
