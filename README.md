@@ -52,3 +52,4 @@ This is my exercise for leetcode.
 |44  | [移除链表元素](./src/com/james/leetcode/link/RemoveElements.java) | Java | Easy |
 |45  | [奇偶链表](./src/com/james/leetcode/link/OddEvenList.java) | Java | Medium |
 |46  | [两数相加](./src/com/james/leetcode/link/AddTwoNumbers.java) | Java | Medium |
+|47  | [扁平化多级双向链表](./src/com/james/leetcode/link/Flatten.java) | Java | Medium |
