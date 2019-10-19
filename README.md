@@ -53,3 +53,4 @@ This is my exercise for leetcode.
 |45  | [奇偶链表](./src/com/james/leetcode/link/OddEvenList.java) | Java | Medium |
 |46  | [两数相加](./src/com/james/leetcode/link/AddTwoNumbers.java) | Java | Medium |
 |47  | [扁平化多级双向链表](./src/com/james/leetcode/link/Flatten.java) | Java | Medium |
+|48  | [复制带随机指针的链表](./src/com/james/leetcode/link/CopyRandomList.java) | Java | Medium |
