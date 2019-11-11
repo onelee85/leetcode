@@ -56,3 +56,4 @@ This is my exercise for leetcode.
 |48  | [复制带随机指针的链表](./src/com/james/leetcode/link/CopyRandomList.java) | Java | Medium |
 |49  | [旋转链表](./src/com/james/leetcode/link/RotateRight.java) | Java | Medium |
 |50  | [寻找数组的中心索引](./src/com/james/leetcode/array/PivotIndex.java) | Java | Easy |
+|51  | [至少是其他数字两倍的最大数](./src/com/james/leetcode/array/DominantIndex.java) | Java | Easy |
