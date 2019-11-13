@@ -57,3 +57,4 @@ This is my exercise for leetcode.
 |49  | [旋转链表](./src/com/james/leetcode/link/RotateRight.java) | Java | Medium |
 |50  | [寻找数组的中心索引](./src/com/james/leetcode/array/PivotIndex.java) | Java | Easy |
 |51  | [至少是其他数字两倍的最大数](./src/com/james/leetcode/array/DominantIndex.java) | Java | Easy |
+|52  | [对角线遍历](./src/com/james/leetcode/array/DiagonalOrder.java) | Java | Medium |
