@@ -58,3 +58,4 @@ This is my exercise for leetcode.
 |50  | [寻找数组的中心索引](./src/com/james/leetcode/array/PivotIndex.java) | Java | Easy |
 |51  | [至少是其他数字两倍的最大数](./src/com/james/leetcode/array/DominantIndex.java) | Java | Easy |
 |52  | [对角线遍历](./src/com/james/leetcode/array/DiagonalOrder.java) | Java | Medium |
+|53  | [螺旋矩阵](./src/com/james/leetcode/array/SpiralOrder.java) | Java | Medium |
