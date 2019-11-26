@@ -59,3 +59,4 @@ This is my exercise for leetcode.
 |51  | [至少是其他数字两倍的最大数](./src/com/james/leetcode/array/DominantIndex.java) | Java | Easy |
 |52  | [对角线遍历](./src/com/james/leetcode/array/DiagonalOrder.java) | Java | Medium |
 |53  | [螺旋矩阵](./src/com/james/leetcode/array/SpiralOrder.java) | Java | Medium |
+|54  | [杨辉三角](./src/com/james/leetcode/array/PascalTriangle.java) | Java | Easy |
