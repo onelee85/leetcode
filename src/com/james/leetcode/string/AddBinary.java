@@ -19,7 +19,6 @@ public class AddBinary {
     static class Solution {
         public String addBinary(String a, String b) {
             if(a == null || b == null || a.equals("")  || b.equals("")) return null;
-
             char[] aChars = a.toCharArray();
             char[] bChars = b.toCharArray();
             String str = "";
@@ -41,7 +40,7 @@ public class AddBinary {
                 str = sum + str;
             }
             if(move == 1){
-                str = 1+str;
+                str = 1 + str;
             }
             return str;
         }

@@ -60,4 +60,5 @@ This is my exercise for leetcode.
 |52  | [对角线遍历](./src/com/james/leetcode/array/DiagonalOrder.java) | Java | Medium |
 |53  | [螺旋矩阵](./src/com/james/leetcode/array/SpiralOrder.java) | Java | Medium |
 |54  | [杨辉三角](./src/com/james/leetcode/array/PascalTriangle.java) | Java | Easy |
-|55  | [二进制求和](./src/com/james/leetcode/array/AddBinary.java) | Java | Easy |
+|55  | [二进制求和](./src/com/james/leetcode/string/AddBinary.java) | Java | Easy |
+|56  | [数组拆分 I](./src/com/james/leetcode/array/ArrayPairSum.java) | Java | Easy |
