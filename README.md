@@ -62,3 +62,4 @@ This is my exercise for leetcode.
 |54  | [杨辉三角](./src/com/james/leetcode/array/PascalTriangle.java) | Java | Easy |
 |55  | [二进制求和](./src/com/james/leetcode/string/AddBinary.java) | Java | Easy |
 |56  | [数组拆分 I](./src/com/james/leetcode/array/ArrayPairSum.java) | Java | Easy |
+|56  | [两数之和 II](./src/com/james/leetcode/array/TwoSumII.java) | Java | Easy |
