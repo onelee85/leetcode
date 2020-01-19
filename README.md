@@ -65,3 +65,4 @@ This is my exercise for leetcode.
 |57  | [两数之和 II](./src/com/james/leetcode/array/TwoSumII.java) | Java | Easy |
 |57  | [移除元素](./src/com/james/leetcode/array/RemoveElement.java) | Java | Easy |
 |58  | [最大连续1的个数](./src/com/james/leetcode/array/MaxConsecutiveOnes.java) | Java | Easy |
+|59  | [长度最小的子数组](./src/com/james/leetcode/array/MinSubArrayLen.java) | Java | Medium |
