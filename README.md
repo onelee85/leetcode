@@ -66,3 +66,4 @@ This is my exercise for leetcode.
 |57  | [移除元素](./src/com/james/leetcode/array/RemoveElement.java) | Java | Easy |
 |58  | [最大连续1的个数](./src/com/james/leetcode/array/MaxConsecutiveOnes.java) | Java | Easy |
 |59  | [长度最小的子数组](./src/com/james/leetcode/array/MinSubArrayLen.java) | Java | Medium |
+|60  | [杨辉三角 II](./src/com/james/leetcode/array/PascalTriangle2.java) | Java | Easy |
