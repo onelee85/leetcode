@@ -68,4 +68,5 @@ This is my exercise for leetcode.
 |59  | [长度最小的子数组](./src/com/james/leetcode/array/MinSubArrayLen.java) | Java | Medium |
 |60  | [杨辉三角 II](./src/com/james/leetcode/array/PascalTriangle2.java) | Java | Easy |
 |61  | [翻转字符串里的单词](./src/com/james/leetcode/string/ReverseWords.java) | Java | Medium |
-|61  | [反转字符串中的单词 III](./src/com/james/leetcode/string/ReverseWordsIII.java) | Java | Easy |
+|62  | [反转字符串中的单词 III](./src/com/james/leetcode/string/ReverseWordsIII.java) | Java | Easy |
+|63  | [两个数组的交集](./src/com/james/leetcode/hash/Intersection.java) | Java | Easy |
