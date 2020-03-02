@@ -70,3 +70,4 @@ This is my exercise for leetcode.
 |61  | [翻转字符串里的单词](./src/com/james/leetcode/string/ReverseWords.java) | Java | Medium |
 |62  | [反转字符串中的单词 III](./src/com/james/leetcode/string/ReverseWordsIII.java) | Java | Easy |
 |63  | [两个数组的交集](./src/com/james/leetcode/hash/Intersection.java) | Java | Easy |
+|64  | [快乐数](./src/com/james/leetcode/hash/IsHappy.java) | Java | Easy |
