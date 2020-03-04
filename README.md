@@ -72,3 +72,4 @@ This is my exercise for leetcode.
 |63  | [两个数组的交集](./src/com/james/leetcode/hash/Intersection.java) | Java | Easy |
 |64  | [快乐数](./src/com/james/leetcode/hash/IsHappy.java) | Java | Easy |
 |65  | [同构字符串](./src/com/james/leetcode/hash/Isomorphic.java) | Java | Easy |
+|66  | [两个列表的最小索引总和](./src/com/james/leetcode/hash/FindRestaurant.java) | Java | Easy |
