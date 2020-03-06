@@ -73,3 +73,4 @@ This is my exercise for leetcode.
 |64  | [快乐数](./src/com/james/leetcode/hash/IsHappy.java) | Java | Easy |
 |65  | [同构字符串](./src/com/james/leetcode/hash/Isomorphic.java) | Java | Easy |
 |66  | [两个列表的最小索引总和](./src/com/james/leetcode/hash/FindRestaurant.java) | Java | Easy |
+|67  | [存在重复元素 II](./src/com/james/leetcode/hash/ContainsNearbyDuplicate.java) | Java | Easy |
