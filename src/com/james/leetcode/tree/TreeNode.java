@@ -12,10 +12,26 @@ public class TreeNode {
     TreeNode(int x) { val = x; }
 
     /**
+     示例 1：
+     *         1
+     *        / \
+     *       2   3
+     *      /   / \
+     *     4   2   4
+     *        /
+     *       4
+     * [1,2,3,4,null,2,4,null,null,4]
+     * @param arrs
+     * @return
+     */
+    public static TreeNode build(Integer[] arrs){
+        return null;
+    }
+    /**
      * 前序遍历 先访问 根节点->左节点->右节点
      */
     public static void preOrderTraverse1(TreeNode root){
-        if(root == null) return ;
+        if(root == null){ System.out.print("null,"); return ;}
         System.out.print(root.val+",");
         preOrderTraverse1(root.left);
         preOrderTraverse1(root.right);
@@ -74,7 +90,7 @@ public class TreeNode {
      * 后续遍历 先访问 左节点->右节点->根节点
      */
     public static void postOrderTraverse1(TreeNode root){
-        if(root == null) return ;
+        if(root == null){ System.out.print("null,"); return ;}
         postOrderTraverse1(root.left);
         postOrderTraverse1(root.right);
         System.out.print(root.val+",");
