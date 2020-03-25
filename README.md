@@ -77,3 +77,4 @@ This is my exercise for leetcode.
 |68  | [字母异位词分组](./src/com/james/leetcode/hash/GroupAnagrams.java) | Java | Medium |
 |69  | [有效的数独](./src/com/james/leetcode/hash/ValidSudoku.java) | Java | Medium |
 |70  | [寻找重复的子树](./src/com/james/leetcode/tree/FindDuplicateSubtrees.java) | Java | Medium |
+|71  | [宝石与石头](./src/com/james/leetcode/hash/NumJewelsInStones.java) | Java | Easy |
