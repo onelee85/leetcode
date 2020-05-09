@@ -80,3 +80,4 @@ This is my exercise for leetcode.
 |71  | [宝石与石头](./src/com/james/leetcode/hash/NumJewelsInStones.java) | Java | Easy |
 |72  | [无重复字符的最长子串](./src/com/james/leetcode/hash/LengthOfLongestSubstring.java) | Java | Easy |
 |73  | [四数相加 II](./src/com/james/leetcode/hash/FourSumCount.java) | Java | Medium |
+|74  | [前K个高频元素](./src/com/james/leetcode/hash/TopKFrequent.java) | Java | Medium |
