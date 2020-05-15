@@ -50,12 +50,38 @@ public class TopKFrequent {
         }
     }
 
+    /**
+     * 用优先队列的方式
+     */
+    static class Solution2 {
+        public int[] topKFrequent(int[] nums, int k) {
+            if(nums == null) return null;
+            int[] results = new int[k];
+            Map<Integer,Integer> map = new HashMap<>();
+            for (int n : nums){
+                map.put(n, map.getOrDefault(n, 0)+1);
+            }
+            PriorityQueue<Integer> priorityQueue = new PriorityQueue<Integer>((n1, n2) -> map.get(n1) - map.get(n2));
+            for (Integer n : map.keySet()){
+                priorityQueue.add(n);
+                if(priorityQueue.size() > k)
+                    priorityQueue.poll();
+            }
+            for (int i = 0; i < k; i++) {
+                results[i] = priorityQueue.poll();
+            }
+            return  results;
+        }
+    }
+
     public static void main(String[] args) {
         int[] nums = {1,1,1,2,2,3,2,2};
         print(new TopKFrequent.Solution().topKFrequent(nums, 1));
+        print(new TopKFrequent.Solution2().topKFrequent(nums, 1));
 
-        int[] nums2 = {1,1,1,1,2,2,2,3,3,3,3,3,4,4,4,4,5,5,5,5,5,5,5,5};
-        print(new TopKFrequent.Solution().topKFrequent(nums2, 5));
+        int[] nums2 = {1,1,1,2,2,2,4,4,4,4,5,5,5,5,5};
+        print(new TopKFrequent.Solution().topKFrequent(nums2, 3));
+        print(new TopKFrequent.Solution2().topKFrequent(nums2, 3));
     }
 
     public static void print(int[] results){
