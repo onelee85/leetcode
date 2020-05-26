@@ -82,3 +82,4 @@ This is my exercise for leetcode.
 |73  | [四数相加 II](./src/com/james/leetcode/hash/FourSumCount.java) | Java | Medium |
 |74  | [前K个高频元素](./src/com/james/leetcode/hash/TopKFrequent.java) | Java | Medium |
 |75  | [常数时间插入、删除和获取随机元素](./src/com/james/leetcode/hash/RandomizedSet.java) | Java | Medium |
+|76  | [二分查找](./src/com/james/leetcode/search/BinarySearch.java) | Java | Easy |
